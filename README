@@ -1,0 +1,5 @@
+Цель: Освоить тестирование на примере АПИ, используя сторонние. Как пример для самих тестов испольвать тестирование Weaher API.
+SOURCES:
+https://github.com/1irs/typing_mocking/blob/master/test_getting_weather.py
+https://newsapi.org/
+
