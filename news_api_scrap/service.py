@@ -11,7 +11,4 @@ def get_news(query:str):
     api= f"https://newsapi.org/v2/everything?q={query}&apiKey={Key}"
     req = requests.get(api)
     #import pdb;pdb.set_trace()
-    print(req.json())
     return req.json()
-
-print(get_news('Finance'))
